@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @786hackerboss
+- 👋 Hi, I’m Vivek Singh
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Php
 - 💞️ I’m looking to collaborate on Web Development 

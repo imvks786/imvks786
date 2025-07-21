@@ -12,7 +12,7 @@
 
 <h3 align="left">See me also on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/imvks786/" target="blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/imvks-in/" target="blank">Linkedin</a>
 <a href="https://x.com/imvks_" target="blank"> Twitter</a>
 <a href="https://instagram.com/imvks786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imvks786" height="30" width="40" /></a>
 

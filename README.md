@@ -1,32 +1,47 @@
-<h1 align="center">hello, I'm Vivek Singh</h1>
-<h3 align="right">Software Developer</h3>
+# Vivek Singh — Software Developer 👋
 
-- 🔭 i’m currently working on [ChatAI](https://github.com/imvks786/ChatAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/imvks-in/)
+[![GitHub](https://img.shields.io/badge/GitHub-imvks786-black?logo=github)](https://github.com/imvks786)
 
-- 🌱 i’m currently exploring **Machine Learning, Data Analytics and Cloud**
+---
 
-- 👨‍💻 See my some interesting project at [https://github.com/imvks786](https://github.com/imvks786)
+## 💫 About Me
+Hi — I'm **Vivek Singh**, a pragmatic and curious Software Developer from New Delhi, India.  
+I build cloud-first data solutions and interactive web experiences. I love Azure, clean ETL pipelines, and turning messy JSON into useful tables and dashboards.
 
-- 📫 how to reach me **search on google - imvks**
+- 🔸 2+ years of experience in full-stack & cloud data engineering  
+- 🔸 Hands-on with **Azure Data Factory, Data Lake Gen2, Logic Apps, Azure SQL**  
+- 🔸 Comfortable with **Python, JavaScript, SQL** and the full SDLC  
+- 🔸 Built **42+ simulated pharmacology experiments** used by **100+ universities**  
+- 🔸 Passionate about automation, testing, and reproducible data workflows
 
+---
 
-<h3 align="left">See me also on:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/imvks-in/" target="blank">Linkedin</a>
-<a href="https://x.com/imvks_" target="blank"> Twitter</a>
-<a href="https://instagram.com/imvks786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imvks786" height="30" width="40" /></a>
+## 🚀 Featured Projects
 
+### Azure Weather Data Pipeline
+**Tech:** Azure Data Factory, Data Lake Gen2, Azure SQL, Logic Apps, Power BI, Python  
+**What it does:** Ingests JSON weather APIs for multiple cities, transforms with ADF Data Flows, stores cleaned data in Azure SQL, and powers a Power BI dashboard. Email alerts via Logic Apps on pipeline success/failure.  
+**Why it matters:** Demonstrates end-to-end cloud ETL and observability for real-time data.
 
-<h3 align="left">Technology Stacks:</h3>
-<p align="left"> 
-  <span>CSS</span> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  
-  <span>HTML5</span> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  
-  <span>MySQL</span> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  
-<span>PHP</span> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-  
-  <span>Python</span> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+### MyCalPharm (Virtual Pharmacology Platform)
+**Tech:** HTML/CSS/JS, Backend APIs, Cloud hosting  
+**What it does:** 42+ interactive pharmacological simulations (Tutorial / Practice / Exam), automated performance reports, replaced animal models with virtual labs. Deployed and used by 100+ universities in India.
 
-</p>
+### Smart Specs — Laptop Price Predictor
+**Tech:** Python, Pandas, scikit-learn, Flask  
+**What it does:** Predicts laptop prices with ~88% accuracy using linear regression. Processes 2k+ sales records and exposes a simple web UI.
+
+### TabLockX
+**Tech:** Chrome Extension (JS)  
+**Achievement:** Selected as "Build of the Week" (Oct 2024) for improving browsing privacy & productivity.
+
+---
+
+## 🧰 Tech Stack (short)
+- **Languages:** Python, JavaScript  
+- **Cloud & Data:** Azure Data Factory, Azure Data Lake Gen2, Logic Apps, Azure SQL  
+- **DBs:** MySQL, MS SQL Server  
+- **Tools:** GitHub, VS Code, Postman, Power BI  
+- **Concepts:** ETL Pipelines, REST APIs, JSON parsing, data normalization, ML prototyping
+---

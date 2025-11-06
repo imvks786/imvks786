@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me
-Hi — I'm **Vivek Singh**, a pragmatic and curious Software Developer from New Delhi, India.  
+Hi, I'm **Vivek Singh**, a pragmatic and curious Software Developer from New Delhi, India.  
 I build cloud-first data solutions and interactive web experiences. I love Azure, clean ETL pipelines, and turning messy JSON into useful tables and dashboards.
 
 - 🔸 2+ years of experience in full-stack & cloud data engineering  

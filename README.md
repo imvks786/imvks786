@@ -1,4 +1,4 @@
-# Vivek Singh — Software Developer 👋
+# Vivek Singh (Software Developer) 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/imvks-in/)
 [![GitHub](https://img.shields.io/badge/GitHub-imvks786-black?logo=github)](https://github.com/imvks786)
